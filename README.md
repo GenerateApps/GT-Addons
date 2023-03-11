@@ -1,2 +1,2 @@
-# GT-Addons
-Addons for GenerateTerminal
+# GenerateAddons
+Addons for GenerateTerminal & snippets!
