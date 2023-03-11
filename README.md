@@ -1,2 +1,2 @@
 # GenerateAddons
-Addons for GenerateTerminal & snippets!
+Addons for our apps & snippets!
